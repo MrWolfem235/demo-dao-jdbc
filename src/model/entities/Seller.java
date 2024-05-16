@@ -1,10 +1,8 @@
-package mode.entities;
+package model.entities;
 
 import java.io.Serializable;
 import java.util.Date;
 import java.util.Objects;
-
-import model.entities.Department;
 
 public class Seller implements Serializable{
 
